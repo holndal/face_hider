@@ -1,2 +1,1 @@
-# face_hider
-hide face with image file.
+![demo](https://raw.githubusercontent.com/holndal/face_hider/main/out.gif)
